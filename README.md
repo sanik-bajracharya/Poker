@@ -7,6 +7,7 @@ Compare several pairs of poker hands to indicate which, if either, has a higher 
 1. Clone https://github.com/sanik-bajracharya/Poker
 2. Install dependencies `npm install`
 3. Start application using `npm run start <absoulte_path_to_input_txt_file>`
+
 Example: `npm run start D:/path/to/file/input.txt`
 
 ## Sample Input/Output
