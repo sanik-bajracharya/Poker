@@ -20,6 +20,7 @@ Example: `npm run start D:/path/to/file/input.txt`
 AH AD AS AC JD 2C 2H 2S 8C KH  
 4H 5H 8H 7H 6H 4S 5S 8S 7S 6S  
 2H 2S 2C 8D 8H 5S 5D 5H QS 3S  
+6C 8D QD 9S QU 6D 9C KS TD QS  
 TH TS TC QD QH 5S 5D AH AS AC  
   
 **Output**  
@@ -30,7 +31,10 @@ Black wins.
 Black wins.  
 Tie.  
 Black wins.  
-White wins.  
+Invalid.    
+White wins.
+
+*Note:* Any invalid input will output as "Invalid."
 
 ## Unit test
 Run `npm test`
