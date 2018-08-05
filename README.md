@@ -12,23 +12,25 @@ Example: `npm run start D:/path/to/file/input.txt`
 
 ## Sample Input/Output
 
-- Input
-5H 5D 5S 5C KD 2C 2H 2S 8C AH
-4H 5H 8H 7H 6H KC QC TC JC AC
-4H 5H 8H 7H 6H 9C 9D 9S 9H KD
-AH AD AS AC JD 2C 2H 2S 8C KH
-4H 5H 8H 7H 6H 4S 5S 8S 7S 6S
-2H 2S 2C 8D 8H 5S 5D 5H QS 3S
-TH TS TC QD QH 5S 5D AH AS AC
-
-- Output
-Black wins.
-White wins.
-Black wins.
-Black wins.
-Tie.
-Black wins.
-White wins.
+**Input**
+  
+5H 5D 5S 5C KD 2C 2H 2S 8C AH  
+4H 5H 8H 7H 6H KC QC TC JC AC  
+4H 5H 8H 7H 6H 9C 9D 9S 9H KD  
+AH AD AS AC JD 2C 2H 2S 8C KH  
+4H 5H 8H 7H 6H 4S 5S 8S 7S 6S  
+2H 2S 2C 8D 8H 5S 5D 5H QS 3S  
+TH TS TC QD QH 5S 5D AH AS AC  
+  
+**Output**  
+  
+Black wins.  
+White wins.  
+Black wins.  
+Black wins.  
+Tie.  
+Black wins.  
+White wins.  
 
 ## Unit test
 Run `npm test`
