@@ -11,6 +11,7 @@ Compare several pairs of poker hands to indicate which, if either, has a higher 
 Example: `npm run start D:/path/to/file/input.txt`
 
 ## Sample Input/Output
+The input file contains several lines, each containing the designation of ten cards: the first five cards are the hand for the player named `Black` and the next five cards are the hand for the player named `White`.  
 
 **Input**
   
