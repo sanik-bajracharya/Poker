@@ -1,7 +1,7 @@
 
 import { Hand } from './Hand';
 import { Showdown } from './Showdown';
-import { Logger } from './Logger';
+import * as Logger from './Logger';
 
 export class Poker {
     
