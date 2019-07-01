@@ -1,4 +1,4 @@
-import { Card } from './Card'
+import * as Card from './Card'
 
 export class Validation {
     constructor(dealtCards) {
