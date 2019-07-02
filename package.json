@@ -1,6 +1,6 @@
 {
   "name": "poker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compares two player poker hands",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }  
+    }
   }
 }
